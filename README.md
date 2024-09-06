@@ -7,7 +7,7 @@ Olá! Eu sou o Luiz Silva, um entusiasta de tecnologia e desenvolvedor de softwa
 Aqui estão alguns dos meus projetos mais recentes:
 
 - **Projeto 1**: [Meu blog hospedado na github ](https://portifolioluizsilva.github.io./index.html) 
-- **Projeto 2**:[Servidor Propositalmente Vulnerável](https://github.com/PortifolioLuizSilva/Honeypots)
+- **Projeto 2**:[Servidor honeypots Propositalmente Vulnerável](https://github.com/PortifolioLuizSilva/Honeypots)
 - **Projeto 3**: [Monitoramento De Rede & Log Cybersec ](https://github.com/PortifolioLuizSilva/monitoramento_de_rede)
 
 ## 💻 Habilidades
