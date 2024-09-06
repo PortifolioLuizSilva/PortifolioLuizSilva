@@ -6,9 +6,9 @@ Olá! Eu sou o Luiz Silva, um entusiasta de tecnologia e desenvolvedor de softwa
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **Projeto 1**: Uma breve descrição do Projeto 1. Link para o repositório ou demonstração se disponível.
-- **Projeto 2**: Uma breve descrição do Projeto 2. Link para o repositório ou demonstração se disponível.
-- **Projeto 3**: Uma breve descrição do Projeto 3. Link para o repositório ou demonstração se disponível.
+- **Projeto 1**: . 
+- **Projeto 2**: .
+- **Projeto 3**: .
 
 ## 💻 Habilidades
 
